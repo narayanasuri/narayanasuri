@@ -1,4 +1,4 @@
-![](https://i.redd.it/4d4dfiy2hhb01.jpg)
+![](./calvin.jpg)
 
 ### Hi, I'm Suri :wave:
 ### I'm a Web Developer / Experience Engineer. Java is my first language :skull: I also write ReactJS!
