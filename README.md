@@ -14,14 +14,9 @@ Check out my recent project, Literature, a multiplayer card game - [LitAF](https
 
 <p align="center"> 
 
+- <a href="https://github.com/narayanasuri"><img src="https://img.shields.io/github/followers/narayanasuri.svg?label=GitHub&style=social" alt="GitHub"></a>
 
-- Contributing on: <a href="https://github.com/PluckyPrecious"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub"></a>
-
-
-- Trying to be up to good on: <a href="https://twitter.com/PluckyPrecious"><img src="https://img.shields.io/twitter/follow/PluckyPrecious?label=Twitter&style=social" alt="Twitter"></a> 
-
-
-- Lazy curating pluckyspiration on: <a href="https://www.youtube.com/channel/UC2-U73E-uyf_lNCDO0yENlQ?view_as=subscriber">YouTube</a> or <a href="https://pluckys.home.blog/2019/11/01/the-journey-begins/">WordPress</a>
+- <a href="https://twitter.com/n_suri96"><img src="https://img.shields.io/twitter/follow/n_suri96?label=Twitter&style=social" alt="Twitter"></a> 
 
 <!--
 **narayanasuri/narayanasuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
