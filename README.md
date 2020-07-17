@@ -1,9 +1,12 @@
 ![](./calvin.jpg)
 
 ### Hi, I'm Suri :wave:
-### I'm a Web Developer / Experience Engineer. Java is my first language :skull: I also write ReactJS!
 
-- 🔭 I’m currently working on [LitAF](https://play-litaf.herokuapp.com)
+I'm a Web Developer / Experience Engineer. Java is my first language :skull: I also write ReactJS!
+
+- 🔭 Check out my recent project [LitAF](https://play-litaf.herokuapp.com)
+- :heart: I love Football :soccer: and movies
+
 
 > Design is not just what it looks like and feels like. Design is how it works.
 
