@@ -1,4 +1,4 @@
-![](./header.jpg)
+![](./profile-header.jpg)
 
 ### Hi, I'm Suri :wave:
 
