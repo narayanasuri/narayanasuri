@@ -1,5 +1,7 @@
 ## Hi there, I'm Suri 👋
 
+[R2D2](https://i.gifer.com/SNfZ.gif)
+
 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
