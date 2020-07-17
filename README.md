@@ -1,4 +1,4 @@
-# Hi there, I'm Suri 👋
+## Hi there, I'm Suri 👋
 
 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
