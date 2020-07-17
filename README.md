@@ -1,6 +1,6 @@
 ## Hi there, I'm Suri 👋
 
-[R2D2](https://i.gifer.com/SNfZ.gif)
+![](https://coverfiles.alphacoders.com/581/58163.jpg)
 
 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
