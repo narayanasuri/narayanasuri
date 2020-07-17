@@ -2,7 +2,8 @@
 
 ### Hi, I'm Suri :wave:
 
-I'm a Web Developer / Experience Engineer. Java is my first language :skull: I also write ReactJS!
+I'm a Web Developer / Experience Engineer based out of Chennai, TN. Java is my first language but I've been high on the JS ecosystem since forever :skull:
+I spend countless hours learning cool stuff and adapting to the latest tech out there.
 
 - 🔭 Check out my recent project [LitAF](https://play-litaf.herokuapp.com)
 - :heart: I love Football :soccer: and movies
