@@ -2,9 +2,11 @@
   <img src="https://coverfiles.alphacoders.com/581/58163.jpg" width="80%">
   <br><br>
 </p>
+
+<h3>:wave: Hi, I'm Suri</h3>
+
 <p>
   <samp>
-    <h3>:wave: Hi, I'm Suri</h3>
     <br />
     I'm a Web Developer / Experience Engineer based out of Chennai, TN. Java is my first language but I've been high on the JS ecosystem since forever :syringe: I mostly work on React but I spend countless hours learning cool stuff and adapting to the latest tech out there :alien:
     <br />
