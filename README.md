@@ -4,7 +4,7 @@
 </p>
 <p>
   <samp>
-    :wave: Hi, I'm Suri
+    <h3>:wave: Hi, I'm Suri</h3>
     <br />
     I'm a Web Developer / Experience Engineer based out of Chennai, TN. Java is my first language but I've been high on the JS ecosystem since forever :skull: I mostly work on React but I spend countless hours learning cool stuff and adapting to the latest tech out there.
     <br />
