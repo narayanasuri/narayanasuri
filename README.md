@@ -14,7 +14,7 @@
     While I'm not coding, you can find me raving about how beautiful :soccer: is. I'm a huge Chelsea fan and a sucker for cinema! I also play the guitar and sing.
     <br />
     <br />
-    Check out my recent project, Literature, a multiplayer card game - <a href="https://play-litaf-herokuapp.com">LitAF</a>
+    Check out my recent project, Literature, a multiplayer card game - <a href="https://play-litaf.herokuapp.com">LitAF</a>
     <br />
     <br />
   </samp>
