@@ -3,7 +3,7 @@
   <br><br>
 </p>
 
-<h3>:wave: Hi, I'm Suri</h3>
+<h3>&#128075;&#127997; Hi, I'm Suri</h3>
 
 <p>
   <samp>
