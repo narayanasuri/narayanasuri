@@ -105,21 +105,21 @@ I'm **Narayana Suri** from Chennai, India.
 ### Let's connect
 
 <a href="http://www.instagram.com/suriosityy" target="_blank" rel="noreferrer">
-  <img align="center"
+  <img align="left"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
     alt="narayanasuri" height="40" width="40" />
 </a>
 <a href="https://linkedin.com/in/narayanasuri" target="blank" rel="noreferrer">
-  <img align="center" src="https://brandeps.com/icon-download/L/Linkedin-icon-vector-13.svg" alt="narayanasuri"
+  <img align="left" src="https://brandeps.com/icon-download/L/Linkedin-icon-vector-13.svg" alt="narayanasuri"
     height="40" width="40" />
 </a>
 <a href="https://www.hackerrank.com/narayanasuri08" target="blank" rel="noreferrer">
-  <img align="center"
+  <img align="left"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
     alt="narayanasuri" height="40" width="40" />
 </a>
 <a href="https://narayanasuri.hashnode.dev/" target="blank" rel="noreferrer">
-  <img align="center"
+  <img align="left"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg"
     alt="narayanasuri" height="40" width="40" />
 </a>
