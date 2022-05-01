@@ -113,7 +113,7 @@ I'm **Narayana Suri** from Chennai, India.
   <img align="center" src="https://brandeps.com/icon-download/L/Linkedin-icon-vector-13.svg" alt="narayanasuri"
     height="40" width="40" />
 </a>
-<a href="https://www.hackerrank.com/narayanasuri" target="blank" rel="noreferrer">
+<a href="https://www.hackerrank.com/narayanasuri08" target="blank" rel="noreferrer">
   <img align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
     alt="narayanasuri" height="40" width="40" />
